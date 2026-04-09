@@ -29,8 +29,8 @@ Data-SAIL-Spring-26/
 ### Weekly Meetings
 We hold weekly meetings every **Wednesday**, where members explore topics across data science, AI, and machine learning. Sessions include news roundups, hands-on Kaggle competitions, guest discussions, and more.
 
-### Argonne National Laboratory Tour *(Upcoming)*
-We have organized a visit to **Argonne National Laboratory**, one of the U.S. Department of Energy's premier research facilities. The tour is scheduled for the upcoming **April 8th** and will give members a firsthand look at cutting-edge research happening right in our region.
+### Argonne National Laboratory Tour
+We have organized a visit to **Argonne National Laboratory**, one of the U.S. Department of Energy's premier research facilities. The tour took place on **April 8th** and has given members a firsthand look at cutting-edge research happening right in our region. One of the highlights of the tour was viewing Aurora, the new supercomputer that is powering research in many fields, including artificial intelligence and data science innovation.
 
 ## Points of Contact
 The main source of communication from the club will be the club's [discord server](https://discord.gg/Evq4dHd6W9).
