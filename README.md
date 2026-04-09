@@ -32,5 +32,11 @@ We hold weekly meetings every **Wednesday**, where members explore topics across
 ### Argonne National Laboratory Tour
 We have organized a visit to **Argonne National Laboratory**, one of the U.S. Department of Energy's premier research facilities. The tour took place on **April 8th** and has given members a firsthand look at cutting-edge research happening right in our region. One of the highlights of the tour was viewing Aurora, the new supercomputer that is powering research in many fields, including artificial intelligence and data science innovation.
 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Aurora_environment_1600x900.jpg" alt="Aurora supercomputer at Argonne National Laboratory" width="800"/>
+</div>
+
+*Image: Aurora exascale supercomputer at Argonne National Laboratory. Credit: Argonne National Laboratory / U.S. Department of Energy (public domain), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aurora_environment_1600x900.jpg).*
+
 ## Points of Contact
 The main source of communication from the club will be the club's [discord server](https://discord.gg/Evq4dHd6W9).
