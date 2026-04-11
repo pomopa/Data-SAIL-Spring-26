@@ -21,6 +21,9 @@ Data-SAIL-Spring-26/
 │   ├── W1_Presentation.pdf     # Club presentation for Spring 2026
 │   └── W1_Presentation.pptx
 │
+├── Notebooks/                  # Template Notebooks used in class activities
+│   └── ...
+│
 └── README.md
 ```
 
