@@ -14,14 +14,16 @@ The Data Science and AI Club aims to involve the community of Lewis University i
 Data-SAIL-Spring-26/
 │
 ├── Meeting Slides/
-│   ├── Data SAIL News/         # Slides on a segment of the meeting were we review news in the AI and DS sector
+│   ├── Data SAIL News/               # Slides on a segment of the meeting were we review news in the AI and DS sector
 │   │   └── ...
-│   ├── Resources/              # Slides on resources used to explain and organize in-class activities
+│   ├── Resources/                    # Slides on resources used to explain and organize in-class activities
 │   │   └── ...
-│   ├── W1_Presentation.pdf     # Club presentation for Spring 2026
+│   ├── Leadership_Transition.pdf     # Leadership handoff presentation towards Fall 2026
+│   ├── Leadership_Transition.pptx     
+│   ├── W1_Presentation.pdf           # Club presentation for Spring 2026
 │   └── W1_Presentation.pptx
 │
-├── Notebooks/                  # Template Notebooks used in class activities
+├── Notebooks/                        # Template Notebooks used in class activities
 │   └── ...
 │
 └── README.md
